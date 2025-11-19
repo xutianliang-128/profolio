@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tianliang Xu",
+    "email": "tianlix@umich.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://academicpages.github.io/publications/",
+    "summary": "Ph.D. candidate at the University of Michigan, working with Prof. Sabina Tomkins",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ann Arbor",
       "countryCode": "US",
       "region": ""
     },
@@ -16,137 +16,95 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=jZ8Z_3QAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/xutianliang-128"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Michigan",
+      "area": "Ph.D. candidate in computational social science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "TBD",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Michigan",
+      "area": "M.S. in Data Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "2023",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Chinese University of Hong Kong",
+      "area": "B.S. in Computational and Applied Mathematics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["Mandarin", "English", "Cantonese"],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Anti-establishment sentiment on TikTok: Implications for understanding influence(rs) and expertise on social media",
+      "publisher": "Accepted by ICWSM-26",
+      "releaseDate": "To be release in 2026",
+      "website": "https://arxiv.org/pdf/2508.16453",
+      "summary": "We employ a computational approach to label TikTok posts as containing AES or not across topical domains where content creators tend to frame themselves as experts: finance and wellness. As a comparison, we also consider the topic of conspiracy theories, where AES is expected to becommon. We find that AES is most prevalent in conspiracy theory content, and relatively rare in content related to the other two topics."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "PublicSpeak: Hearing the Public with a Probabilistic Framework",
+      "publisher": "AAAI-25",
+      "releaseDate": "2025",
+      "website": "https://ojs.aaai.org/index.php/AAAI/article/view/35075",
+      "summary": " We propose PUBLICSPEAK, a probabilistic framework which can utilize meeting structure, domain knowledge, and linguistic information to discover public remarks in local government meetings. "
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability",
+      "publisher": "IJCAI-23",
+      "releaseDate": "2023",
+      "website": "https://www.ijcai.org/proceedings/2023/0673.pdf",
+      "summary": "In order to better provide information to consumers, we propose a machine learning method that can discover signals of sustainability from these interactions. Our method, SUSTAINABLESIGNALS, is a first step in scaling up the provision of sustainability cues to online consumers."
     },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
   ],
-  "presentations": [
+  "news": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Conspiracy content drives anti-establishment sentiment on TikTok, YouTube.",
+      "date": "2025-09-23",
+      "location": "Ann Arbor, MI, USA",
+      "website": "https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/",
       "description": ""
     },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "SI 315: Models of Social Information Processing",
+      "institution": "University of Michigan, School of Information",
+      "date": "2025-09-01",
+      "role": "Graduate Student Instructor",
+      "description": "This course focuses on how social groups form, interact, and change. We look at the technical structures of social networks and explore how individual actions are combined to produce collective effects."
     },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
   ],
-  "portfolio": [
+  "services": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+      "name": "Submissions reviewer.",
+      "event": "IC2S2-25",
+      "date": "2025",
+    },
+  ],
 }
