@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We employ a computational approach to label TikTok posts as containing AES or not across topical domains where content creators tend to frame themselves as experts: finance and wellness. As a comparison, we also consider the topic of conspiracy theories, where AES is expected to becommon. We find that AES is most prevalent in conspiracy theory content, and relatively rare in content related to the other two topics.'
-date: 2026
+date: 2026-05-27
 venue: 'ICWSM-26'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://arxiv.org/pdf/2508.16453)'
